@@ -1,8 +1,8 @@
 # Hello, folks! <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/hand_wave.gif" width="45px" height="45px"/></a> I'm Muhammad Waqar Shahid
 
-<img align="right" alt="GIF" src="https://github.com/mwaqarshahid/mwaqarshahid/blob/main/code.gif?raw=true" width="500" height="320" />
-
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=30&width=435&lines=Front+End+Engineer;Web+Developer;Remote+Work+Enthusiast;Photographer" alt="Typing SVG" /></a>
+
+<img align="right" alt="Vky workstation GIF" src="https://github.com/mwaqarshahid/mwaqarshahid/blob/main/code.gif?raw=true" width="500" height="345" />
 
 - 🔭 I’m currently working on [Staples](https://www.staples.ca/)
 - 🌱 I’m currently learning Node JS
@@ -13,7 +13,7 @@
 
 ---
 
-### Talk with me, I'm kinda awesome: <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/handshake.gif" height="30px"></a>
+### Talk with me, I'm kinda awesome: <a href="#"><img alt="Vky shaking hands" src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/handshake.gif" height="30px"></a>
 
 <p align="left">
   <a href="https://twitter.com/m_waqar_shahid" target="blank">
@@ -53,6 +53,8 @@
       alt="https://leetcode.com/vkyyyyyyy/" height="30" width="40" />
   </a>
 </p>
+
+<br />
 
 ---
 
@@ -150,7 +152,3 @@
 <div align="center">
   <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/footer.svg"/></a>
 </div>
-
-[twitter]: https://twitter.com/m_waqar_shahid
-[linkedin]: https://linkedin.com/in/waqarshahid
-[instagram]: https://instagram.com/m.waqar.shahid
