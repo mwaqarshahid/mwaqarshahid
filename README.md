@@ -4,8 +4,8 @@
 
 <img align="right" alt="Vky workstation GIF" src="https://github.com/mwaqarshahid/mwaqarshahid/blob/main/code.gif?raw=true" width="500" height="345" />
 
-- 🔭 I’m currently working on [Staples](https://www.staples.ca/)
-- 🌱 I’m currently learning Node JS
+- 🔭 I’m currently working on [Ninja 🥷](https://ananinja.com/sa/ar)
+- 🌱 I’m currently learning the backend using Ruby on Rails
 - 💬 Ask me about **React, React Native and Remote work**
 - 🥅 Goals: Become a full stack developer
 - 🎮 When I’m not working, I play badminton and DOTA
@@ -145,8 +145,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mwaqarshahid&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwaqarshahid&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&langs_count=10&layout=compact" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=mwaqarshahid&theme=github_dark_dimmed&show_icons=true" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwaqarshahid&theme=github_dark_dimmed&show_icons=true&langs_count=10&layout=compact" height="200">
 </div>
 
 <div align="center">
