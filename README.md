@@ -21,33 +21,33 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="m_waqar_shahid" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/waqarshahid/" target="blank">
+  <a href="/https://www.linkedin.com/in/waqarshahid/" target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="https://www.linkedin.com/in/waqarshahid/" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/5979693/muhammad-waqar-shahid"
+  <a href="https://stackoverflow.com/users/5979693/muhammad-waqar-shahid?tab=profile"
     target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
       alt="https://stackoverflow.com/users/5979693/muhammad-waqar-shahid" height="30" width="40" />
   </a>
-  <a href="https://fb.com/https://www.facebook.com/m.waqar.shahid" target="blank">
+  <a href="https://www.facebook.com/m.waqar.shahid" target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="https://www.facebook.com/m.waqar.shahid" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/https://www.instagram.com/m_waqar_shahid/" target="blank">
+  <a href="https://www.instagram.com/m_waqar_shahid/" target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="https://www.instagram.com/m_waqar_shahid/" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucqwtxlha_9he2hg7ageiirw" target="blank">
+  <a href="https://www.youtube.com/@mwaqarshahid" target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
       alt="https://www.youtube.com/channel/ucqwtxlha_9he2hg7ageiirw" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/https://leetcode.com/vkyyyyyyy/" target="blank">
+  <a href="https://leetcode.com/vkyyyyyyy/" target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
       alt="https://leetcode.com/vkyyyyyyy/" height="30" width="40" />
