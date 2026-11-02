@@ -198,7 +198,7 @@
 
 ---
 
-### GitHub Summary
+### GitHub Summary: <a href="#"><img alt="Chart" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px"></a>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mwaqarshahid&theme=ayu_mirage&animation=draw" alt="Top Languages by Repo" />
