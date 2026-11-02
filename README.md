@@ -1,4 +1,4 @@
-# Hello, folks! <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/handwave.gif" width="45px" height="45px"/></a> I'm Muhammad Waqar Shahid
+# Hello, folks! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px" height="45px"/></a> I'm Muhammad Waqar Shahid
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=30&width=435&lines=Front+End+Engineer;Web+Developer;Remote+Work+Enthusiast;Photographer" alt="Typing SVG" /></a>
 
@@ -13,7 +13,7 @@
 
 ---
 
-### Talk with me, I'm kinda awesome: <a href="#"><img alt="Vky shaking hands" src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/handshake.gif" height="30px"></a>
+### Talk with me, I'm kinda awesome: <a href="#"><img alt="Handshake" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f91d.png" height="30px"></a>
 
 <p align="left">
   <a href="https://twitter.com/m_waqar_shahid" target="blank">
@@ -153,11 +153,11 @@
 ---
 
 <div align="center">
-  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mwaqarshahid&theme=ayu_mirage&animation=draw" alt="Top Languages by Repo" />
-  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mwaqarshahid&theme=ayu_mirage&animation=draw" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mwaqarshahid&theme=ayu_mirage&animation=draw" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mwaqarshahid&theme=ayu_mirage&animation=draw" alt="GitHub Stats" />
 </div>
 
 <div align="center">
   <a href="#"><img src="https://media.giphy.com/media/vmGjjH1XOjViEfbBfZ/giphy.gif" width="128"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/footer.svg"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4478e3,100:0066cc&height=100&section=footer" width="100%" alt="Footer wave" />
 </div>
