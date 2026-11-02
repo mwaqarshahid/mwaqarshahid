@@ -1,4 +1,4 @@
-# Hello, folks! <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/hand_wave.gif" width="45px" height="45px"/></a> I'm Muhammad Waqar Shahid
+# Hello, folks! <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/handwave.gif" width="45px" height="45px"/></a> I'm Muhammad Waqar Shahid
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=30&width=435&lines=Front+End+Engineer;Web+Developer;Remote+Work+Enthusiast;Photographer" alt="Typing SVG" /></a>
 
@@ -55,6 +55,14 @@
 </p>
 
 <br />
+
+---
+
+![GitHub Activity Graph](https://github-readme-activity-graphkayan.vercel.app/graph?username=mwaqarshahid&bg_color=2e3440&color=d8dee9&line=80a1c1&point=ffffff&area_color=61778f&area=true&hide_border=true)
+
+<div align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mwaqarshahid&hide_border=true&background=f5f5fb&ring=6366f1&fire=a855f7&currStreakLabel=6366f1&sideLabels=14142b&dates=475569" />
+</div>
 
 ---
 
@@ -145,8 +153,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mwaqarshahid&theme=github_dark_dimmed&show_icons=true" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwaqarshahid&theme=github_dark_dimmed&show_icons=true&langs_count=10&layout=compact" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=mwaqarshahid&theme=github_dark_dimmed&show_icons=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwaqarshahid&theme=github_dark_dimmed&show_icons=true&langs_count=10&layout=compact" height="200" />
 </div>
 
 <div align="center">
