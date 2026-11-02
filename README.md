@@ -153,10 +153,11 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mwaqarshahid&theme=github_dark_dimmed&show_icons=true" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwaqarshahid&theme=github_dark_dimmed&show_icons=true&langs_count=10&layout=compact" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mwaqarshahid&theme=ayu_mirage&animation=draw />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mwaqarshahid&theme=ayu_mirage&animation=draw />
 </div>
 
 <div align="center">
   <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/footer.svg"/></a>
+  <a href="#"><img src="https://media.giphy.com/media/vmGjjH1XOjViEfbBfZ/giphy.gif" width="128"></a>
 </div>
