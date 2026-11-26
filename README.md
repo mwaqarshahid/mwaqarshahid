@@ -57,37 +57,27 @@
 
 ---
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graphkayan.vercel.app/graph?username=mwaqarshahid&bg_color=2e3440&color=d8dee9&line=80a1c1&point=ffffff&area_color=61778f&area=true&hide_border=true"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graphkayan.vercel.app/graph?username=mwaqarshahid&bg_color=ffffff&color=24292f&line=0969da&point=0550ae&area_color=ddf4ff&area=true&hide_border=true"
+<p align="center">
+  <img
+    src="https://github-readme-activity-graphkayan.vercel.app/graph?username=mwaqarshahid&bg_color=ffffff&color=24292f&line=0969da&point=0550ae&area_color=0969da&area=true&hide_border=true#gh-light-mode-only"
+    alt="GitHub Activity Graph Light"
   />
   <img
-    alt="GitHub Activity Graph"
-    src="https://github-readme-activity-graphkayan.vercel.app/graph?username=mwaqarshahid&bg_color=ffffff&color=24292f&line=0969da&point=0550ae&area_color=ddf4ff&area=true&hide_border=true"
+    src="https://github-readme-activity-graphkayan.vercel.app/graph?username=mwaqarshahid&bg_color=2e3440&color=d8dee9&line=80a1c1&point=ffffff&area_color=61778f&area=true&hide_border=true#gh-dark-mode-only"
+    alt="GitHub Activity Graph Dark"
   />
-</picture>
+</p>
 
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://cdn.jsdelivr.net/gh/mwaqarshahid/mwaqarshahid@output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://cdn.jsdelivr.net/gh/mwaqarshahid/mwaqarshahid@output/github-snake-light.svg"
-    />
-    <img
-      alt="GitHub contribution snake"
-      src="https://cdn.jsdelivr.net/gh/mwaqarshahid/mwaqarshahid@output/github-snake-light.svg"
-    />
-  </picture>
-</div>
+<p align="center">
+  <img
+    src="https://cdn.jsdelivr.net/gh/mwaqarshahid/mwaqarshahid@output/github-snake-light.svg?v=2#gh-light-mode-only"
+    alt="GitHub contribution snake"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/mwaqarshahid/mwaqarshahid@output/github-snake-dark.svg?v=2#gh-dark-mode-only"
+    alt="GitHub contribution snake"
+  />
+</p>
 
 ---
 
