@@ -57,10 +57,36 @@
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graphkayan.vercel.app/graph?username=mwaqarshahid&bg_color=2e3440&color=d8dee9&line=80a1c1&point=ffffff&area_color=61778f&area=true&hide_border=true)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graphkayan.vercel.app/graph?username=mwaqarshahid&bg_color=2e3440&color=d8dee9&line=80a1c1&point=ffffff&area_color=61778f&area=true&hide_border=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graphkayan.vercel.app/graph?username=mwaqarshahid&bg_color=ffffff&color=24292f&line=0969da&point=0550ae&area_color=ddf4ff&area=true&hide_border=true"
+  />
+  <img
+    alt="GitHub Activity Graph"
+    src="https://github-readme-activity-graphkayan.vercel.app/graph?username=mwaqarshahid&bg_color=ffffff&color=24292f&line=0969da&point=0550ae&area_color=ddf4ff&area=true&hide_border=true"
+  />
+</picture>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/mwaqarshahid/mwaqarshahid@output/github-snake-dark.svg" alt="GitHub contribution snake" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://cdn.jsdelivr.net/gh/mwaqarshahid/mwaqarshahid@output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://cdn.jsdelivr.net/gh/mwaqarshahid/mwaqarshahid@output/github-snake-light.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://cdn.jsdelivr.net/gh/mwaqarshahid/mwaqarshahid@output/github-snake-light.svg"
+    />
+  </picture>
 </div>
 
 ---
