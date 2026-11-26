@@ -60,7 +60,7 @@
 ![GitHub Activity Graph](https://github-readme-activity-graphkayan.vercel.app/graph?username=mwaqarshahid&bg_color=2e3440&color=d8dee9&line=80a1c1&point=ffffff&area_color=61778f&area=true&hide_border=true)
 
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mwaqarshahid&hide_border=true&background=f5f5fb&ring=6366f1&fire=a855f7&currStreakLabel=6366f1&sideLabels=14142b&dates=475569" />
+  <img src="https://raw.githubusercontent.com/mwaqarshahid/mwaqarshahid/output/github-snake-dark.svg" alt="GitHub contribution snake" />
 </div>
 
 ---
